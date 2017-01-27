@@ -1,0 +1,1 @@
+h:\eigene dateien\visual studio 2013\Projects\GrenadeWars\GrenadeWars\GrenadeWarsContent\obj\x86\Debug\GrenadeWarsContent.contentprojResolveAssemblyReference.cache

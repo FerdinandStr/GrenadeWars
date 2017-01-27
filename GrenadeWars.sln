@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrenadeWars", "GrenadeWars\GrenadeWars\GrenadeWars.csproj", "{802D297D-C6E5-44C2-B1F2-669A035957F4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GrenadeWarsContent", "GrenadeWars\GrenadeWarsContent\GrenadeWarsContent.contentproj", "{8B12216B-0BD1-49DB-A4EE-F6844BE5B117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802D297D-C6E5-44C2-B1F2-669A035957F4}.Debug|x86.ActiveCfg = Debug|x86
+		{802D297D-C6E5-44C2-B1F2-669A035957F4}.Debug|x86.Build.0 = Debug|x86
+		{802D297D-C6E5-44C2-B1F2-669A035957F4}.Release|x86.ActiveCfg = Release|x86
+		{802D297D-C6E5-44C2-B1F2-669A035957F4}.Release|x86.Build.0 = Release|x86
+		{8B12216B-0BD1-49DB-A4EE-F6844BE5B117}.Debug|x86.ActiveCfg = Debug|x86
+		{8B12216B-0BD1-49DB-A4EE-F6844BE5B117}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
